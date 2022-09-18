@@ -1,4 +1,4 @@
-module go-postgres
+module golang-crud
 
 go 1.17
 
